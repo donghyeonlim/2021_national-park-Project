@@ -1,0 +1,36 @@
+{
+ "images": [
+  {
+   "file": "/dataset/knps_03/images_and_annotations/all/소북_생태통로_001_멧돼지_20191107_2303 새끼 02.jpg",
+   "max_detection_conf": 0.919,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.919,
+     "bbox": [
+      0.5313,
+      0.5207,
+      0.02388,
+      0.07787
+     ]
+    }
+   ]
+  },
+  {
+   "file": "/dataset/knps_03/images_and_annotations/all/설악_생태통로_080_너구리_20191010_0059 09.jpg",
+   "max_detection_conf": 0,
+   "detections": []
+  }
+ ],
+ "detection_categories": {
+  "2": "WD",
+  "3": "WP",
+  "4": "BG",
+  "5": "RD",
+  "1": "__"
+ },
+ "info": {
+  "detection_completion_time": "2020-11-18 16:12:49",
+  "format_version": "1.0"
+ }
+}
